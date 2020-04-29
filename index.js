@@ -29,6 +29,6 @@ const makeCommits = (num) => {
   });
 };
 
-makeCommits(11000);
+makeCommits(1000);
 
 
